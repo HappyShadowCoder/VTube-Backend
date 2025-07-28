@@ -1,0 +1,4 @@
+Terminal:-
+mkdir controllers db middlewears models routes utils
+touch app.js index.js constants.js .env .env.sample  
+touch readme.md
