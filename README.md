@@ -1,4 +1,4 @@
-#VTube - Backend 🎬(H1)
+VTube - Backend 🎬(H1)
 Welcome to the backend repository for VTube, a complete video-sharing platform inspired by YouTube. This project provides all the necessary backend services, from user authentication and video processing to social features like comments, likes, and subscriptions.
 
 #✨ Features(H2)
