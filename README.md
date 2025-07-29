@@ -1,7 +1,8 @@
-VTube - Backend 🎬(H1)
+#VTube - Backend 🎬
+
 Welcome to the backend repository for VTube, a complete video-sharing platform inspired by YouTube. This project provides all the necessary backend services, from user authentication and video processing to social features like comments, likes, and subscriptions.
 
-#✨ Features(H2)
+##✨ Features
 🔐 **User Authentication**: Secure JWT-based authentication with access and refresh tokens.
 
 👤 **User Profiles**: Manage user profiles, passwords, avatars, and cover images.
@@ -24,7 +25,7 @@ Subscribe to channels and view subscriber lists.
 
 **📊 Dashboard**: Get channel stats like total video views, total subscribers, and total videos.
 
-#🛠️ Tech Stack & Tools(H2)
+##🛠️ Tech Stack & Tools
 **Runtime**: Node.js
 
 **Framework**: Express.js
